@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "gen": "node ./src",
+        "gen": "node ./src && prettier --write ./data/*.*",
         "build-ExportMyFontList": "cosynode ./src/ExportMyFontList/ ./dist -m --name=ExportMyFontList",
         "ExportMyFontList": "node ./src/ExportMyFontList/index.js"
     },
@@ -15,6 +15,7 @@
         "fontkit": "^1.8.1",
         "iconv-lite": "^0.6.3",
         "node-system-fonts": "^1.0.1",
-        "ora": "^5.4.1"
+        "ora": "^5.4.1",
+        "prettier": "^2.3.2"
     }
 }

@@ -139,6 +139,60 @@ Collects metadata about fonts and is used to find detailed information about fon
 }
 ```
 
+
+## [`fontPostscriptName2FamilyMap.zh.json`](https://github.com/Moonvy/FontMetaDB/raw/master/data/fontPostscriptName2FamilyMap.zh.json) Sample
+
+[https://github.com/Moonvy/FontMetaDB/raw/master/data/fontPostscriptName2FamilyMap.zh.json](https://github.com/Moonvy/FontMetaDB/raw/master/data/fontPostscriptName2FamilyMap.zh.json)
+
+```json
+{
+  "MLingWaiMedium-TC": ["凌慧体-繁", "Medium"],
+  "MLingWaiMedium-SC": ["凌慧体-简", "Medium"],
+  "FZuanSu": ["迷你繁篆书", "regular"],
+  "Jcusong": ["迷你简粗宋", "Regular"],
+  "JHeiMi": ["迷你简黑咪", "regular"],
+  "JSaoEr": ["迷你简少儿", "Regular"],
+  "Jxiangli": ["迷你简祥隶", "Regular"],
+  "RS_CuBiao": ["棉梓冼极", "Regular"],
+  "laowu-Regular": ["默陌老屋手迹", "Regular"],
+  "未定义": ["默陌山魂手迹", "Regular"],
+  "suibixi-Regular": ["默陌随想体细", "Regular"],
+  "yashi-Regular": ["默陌雅诗手迹", "Regular"],
+  "MuyaoPleased": ["沐瑶随心手写体", "Regular"],
+  "NaikaiFont-Bold": ["内海フォント-Bold", "Bold"],
+  "NaikaiFont-ExtraLight": ["内海フォント-ExtraLight", "ExtraLight"],
+  "NaikaiFont-Light": ["内海フォント-Light", "Light"]
+}
+```
+
+
+
+## [`fontPostscriptName2FamilyMap.ja.json`](https://github.com/Moonvy/FontMetaDB/raw/master/data/fontPostscriptName2FamilyMap.ja.json) Sample
+
+[https://github.com/Moonvy/FontMetaDB/raw/master/data/fontPostscriptName2FamilyMap.ja.json](https://github.com/Moonvy/FontMetaDB/raw/master/data/fontPostscriptName2FamilyMap.ja.json)
+
+```json
+{
+  "NaikaiFont-ExtraLight": ["内海フォント-ExtraLight", "ExtraLight"],
+  "NaikaiFont-Light": ["内海フォント-Light", "Light"],
+  "NaikaiFont-Regular": ["内海フォント-Regular", "Regular"],
+  "NaikaiFont-SemiBold": ["内海フォント-SemiBold", "SemiBold"],
+  "aoyagireisyosimo2": ["青柳隷書SIMO2_T", "Regular"],
+  "ToppanBunkyuMidashiMinchoStdN-ExtraBold": ["凸版文久見出し明朝", "Regular"],
+  "ToppanBunkyuMidashiGothicStdN-ExtraBold": ["凸版文久見出しゴシック", "Regular"],
+  "ToppanBunkyuMinchoPr6N-Regular": ["凸版文久明朝", "Regular"],
+  "ToppanBunkyuGothicPr6N-DB": ["凸版文久ゴシック", "Regular"],
+  "ToppanBunkyuGothicPr6N-Regular": ["凸版文久ゴシック", "Regular"],
+  "AjiwaiPro": ["味わい毛筆Pro", "Regular"],
+  "KozMinPr6N-Heavy": ["小塚明朝 Pr6N", "Bold"],
+  "KozMinPr6N-Bold": ["小塚明朝 Pr6N", "Bold"],
+  "KozMinPr6N-ExtraLight": ["小塚明朝 Pr6N", "Regular"],
+  "KozMinPr6N-Regular": ["小塚明朝 Pr6N", "Regular"]
+}
+```
+
+
+
 ## Contribute the metadata of the fonts installed in your system
 
 Download font export tool [Windows system](https://github.com/Moonvy/FontMetaDB/releases/download/ExportMyFontList/ExportMyFontList-Windows.zip) | [MacOS system ](https://github.com/Moonvy/FontMetaDB/releases/download/ExportMyFontList/ExportMyFontList-MacOS.zip)
