@@ -17683,5 +17683,3113 @@
         "zh": "未来荧黑 Normal ExtraLight"
       }
     }
+  },
+  "CascadiaCode-Roman": {
+    "postscriptName": "CascadiaCode-Roman",
+    "fullName": "Cascadia Code Regular",
+    "familyName": "Cascadia Code",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "CascadiaCode-Roman"
+      },
+      "preferredSubfamily": {
+        "en": "Roman"
+      },
+      "fontFamily": {
+        "en": "Cascadia Code"
+      }
+    }
+  },
+  "CascadiaCode-Italic": {
+    "postscriptName": "CascadiaCode-Italic",
+    "fullName": "Cascadia Code Italic",
+    "familyName": "Cascadia Code",
+    "subfamilyName": "Italic",
+    "records": {
+      "postscriptName": {
+        "en": "CascadiaCode-Italic"
+      },
+      "fontFamily": {
+        "en": "Cascadia Code"
+      }
+    }
+  },
+  "CascadiaMono-Roman": {
+    "postscriptName": "CascadiaMono-Roman",
+    "fullName": "Cascadia Mono Regular",
+    "familyName": "Cascadia Mono",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "CascadiaMono-Roman"
+      },
+      "preferredSubfamily": {
+        "en": "Roman"
+      },
+      "fontFamily": {
+        "en": "Cascadia Mono"
+      }
+    }
+  },
+  "CascadiaMono-Italic": {
+    "postscriptName": "CascadiaMono-Italic",
+    "fullName": "Cascadia Mono Italic",
+    "familyName": "Cascadia Mono",
+    "subfamilyName": "Italic",
+    "records": {
+      "postscriptName": {
+        "en": "CascadiaMono-Italic"
+      },
+      "fontFamily": {
+        "en": "Cascadia Mono"
+      }
+    }
+  },
+  "Bahnschrift": {
+    "postscriptName": "Bahnschrift",
+    "fullName": "Bahnschrift",
+    "familyName": "Bahnschrift",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Bahnschrift",
+    "records": {
+      "postscriptName": {
+        "en": "Bahnschrift"
+      },
+      "preferredFamily": {
+        "en": "Bahnschrift"
+      },
+      "fontFamily": {
+        "en": "Bahnschrift"
+      }
+    }
+  },
+  "Calibri-Light": {
+    "postscriptName": "Calibri-Light",
+    "fullName": "Calibri Light",
+    "familyName": "Calibri Light",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Calibri",
+    "records": {
+      "postscriptName": {
+        "0-0": "Calibri-Light",
+        "en": "Calibri-Light"
+      },
+      "preferredFamily": {
+        "en": "Calibri"
+      },
+      "preferredSubfamily": {
+        "en": "Light"
+      },
+      "fontFamily": {
+        "0-0": "Calibri Light",
+        "en": "Calibri Light"
+      }
+    }
+  },
+  "Calibri-LightItalic": {
+    "postscriptName": "Calibri-LightItalic",
+    "fullName": "Calibri Light Italic",
+    "familyName": "Calibri Light",
+    "subfamilyName": "Italic",
+    "preferredFamily": "Calibri",
+    "records": {
+      "postscriptName": {
+        "0-0": "Calibri-LightItalic",
+        "en": "Calibri-LightItalic"
+      },
+      "preferredFamily": {
+        "en": "Calibri"
+      },
+      "preferredSubfamily": {
+        "en": "Light Italic"
+      },
+      "fontFamily": {
+        "0-0": "Calibri Light",
+        "en": "Calibri Light"
+      }
+    }
+  },
+  "Calibri": {
+    "postscriptName": "Calibri",
+    "fullName": "Calibri",
+    "familyName": "Calibri",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "0-0": "Calibri",
+        "en": "Calibri"
+      },
+      "fontFamily": {
+        "0-0": "Calibri",
+        "en": "Calibri"
+      }
+    }
+  },
+  "Calibri-Italic": {
+    "postscriptName": "Calibri-Italic",
+    "fullName": "Calibri Italic",
+    "familyName": "Calibri",
+    "subfamilyName": "Italic",
+    "records": {
+      "postscriptName": {
+        "0-0": "Calibri-Italic",
+        "en": "Calibri-Italic"
+      },
+      "fontFamily": {
+        "0-0": "Calibri",
+        "en": "Calibri"
+      }
+    }
+  },
+  "Calibri-Bold": {
+    "postscriptName": "Calibri-Bold",
+    "fullName": "Calibri Bold",
+    "familyName": "Calibri",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "0-0": "Calibri-Bold",
+        "en": "Calibri-Bold"
+      },
+      "fontFamily": {
+        "0-0": "Calibri",
+        "en": "Calibri"
+      }
+    }
+  },
+  "Calibri-BoldItalic": {
+    "postscriptName": "Calibri-BoldItalic",
+    "fullName": "Calibri Bold Italic",
+    "familyName": "Calibri",
+    "subfamilyName": "Bold Italic",
+    "records": {
+      "postscriptName": {
+        "0-0": "Calibri-BoldItalic",
+        "en": "Calibri-BoldItalic"
+      },
+      "fontFamily": {
+        "0-0": "Calibri",
+        "en": "Calibri"
+      }
+    }
+  },
+  "Cambria": {
+    "postscriptName": "Cambria",
+    "fullName": "Cambria",
+    "familyName": "Cambria",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "0-0": "Cambria",
+        "en": "Cambria"
+      },
+      "fontFamily": {
+        "0-0": "Cambria",
+        "en": "Cambria"
+      }
+    }
+  },
+  "CambriaMath": {
+    "postscriptName": "CambriaMath",
+    "fullName": "Cambria Math",
+    "familyName": "Cambria Math",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "0-0": "CambriaMath",
+        "en": "CambriaMath"
+      },
+      "fontFamily": {
+        "0-0": "Cambria Math",
+        "en": "Cambria Math"
+      }
+    }
+  },
+  "Cambria-Italic": {
+    "postscriptName": "Cambria-Italic",
+    "fullName": "Cambria Italic",
+    "familyName": "Cambria",
+    "subfamilyName": "Italic",
+    "records": {
+      "postscriptName": {
+        "0-0": "Cambria-Italic",
+        "en": "Cambria-Italic"
+      },
+      "fontFamily": {
+        "0-0": "Cambria",
+        "en": "Cambria"
+      }
+    }
+  },
+  "Cambria-Bold": {
+    "postscriptName": "Cambria-Bold",
+    "fullName": "Cambria Bold",
+    "familyName": "Cambria",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "0-0": "Cambria-Bold",
+        "en": "Cambria-Bold"
+      },
+      "fontFamily": {
+        "0-0": "Cambria",
+        "en": "Cambria"
+      }
+    }
+  },
+  "Cambria-BoldItalic": {
+    "postscriptName": "Cambria-BoldItalic",
+    "fullName": "Cambria Bold Italic",
+    "familyName": "Cambria",
+    "subfamilyName": "Bold Italic",
+    "records": {
+      "postscriptName": {
+        "0-0": "Cambria-BoldItalic",
+        "en": "Cambria-BoldItalic"
+      },
+      "fontFamily": {
+        "0-0": "Cambria",
+        "en": "Cambria"
+      }
+    }
+  },
+  "Candara-Light": {
+    "postscriptName": "Candara-Light",
+    "fullName": "Candara Light",
+    "familyName": "Candara Light",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Candara",
+    "records": {
+      "postscriptName": {
+        "0-0": "Candara-Light",
+        "en": "Candara-Light"
+      },
+      "preferredFamily": {
+        "en": "Candara"
+      },
+      "preferredSubfamily": {
+        "en": "Light"
+      },
+      "fontFamily": {
+        "0-0": "Candara Light",
+        "en": "Candara Light"
+      }
+    }
+  },
+  "Candara-LightItalic": {
+    "postscriptName": "Candara-LightItalic",
+    "fullName": "Candara Light Italic",
+    "familyName": "Candara Light",
+    "subfamilyName": "Italic",
+    "preferredFamily": "Candara",
+    "records": {
+      "postscriptName": {
+        "0-0": "Candara-LightItalic",
+        "en": "Candara-LightItalic"
+      },
+      "preferredFamily": {
+        "en": "Candara"
+      },
+      "preferredSubfamily": {
+        "en": "Light Italic"
+      },
+      "fontFamily": {
+        "0-0": "Candara Light",
+        "en": "Candara Light"
+      }
+    }
+  },
+  "Candara": {
+    "postscriptName": "Candara",
+    "fullName": "Candara",
+    "familyName": "Candara",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "0-0": "Candara",
+        "en": "Candara"
+      },
+      "fontFamily": {
+        "0-0": "Candara",
+        "en": "Candara"
+      }
+    }
+  },
+  "Candara-Italic": {
+    "postscriptName": "Candara-Italic",
+    "fullName": "Candara Italic",
+    "familyName": "Candara",
+    "subfamilyName": "Italic",
+    "records": {
+      "postscriptName": {
+        "0-0": "Candara-Italic",
+        "en": "Candara-Italic"
+      },
+      "fontFamily": {
+        "0-0": "Candara",
+        "en": "Candara"
+      }
+    }
+  },
+  "Candara-Bold": {
+    "postscriptName": "Candara-Bold",
+    "fullName": "Candara Bold",
+    "familyName": "Candara",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "0-0": "Candara-Bold",
+        "en": "Candara-Bold"
+      },
+      "fontFamily": {
+        "0-0": "Candara",
+        "en": "Candara"
+      }
+    }
+  },
+  "Candara-BoldItalic": {
+    "postscriptName": "Candara-BoldItalic",
+    "fullName": "Candara Bold Italic",
+    "familyName": "Candara",
+    "subfamilyName": "Bold Italic",
+    "records": {
+      "postscriptName": {
+        "0-0": "Candara-BoldItalic",
+        "en": "Candara-BoldItalic"
+      },
+      "fontFamily": {
+        "0-0": "Candara",
+        "en": "Candara"
+      }
+    }
+  },
+  "ComicSansMS-Italic": {
+    "postscriptName": "ComicSansMS-Italic",
+    "fullName": "Comic Sans MS Italic",
+    "familyName": "Comic Sans MS",
+    "subfamilyName": "Italic",
+    "records": {
+      "postscriptName": {
+        "en": "ComicSansMS-Italic"
+      },
+      "fontFamily": {
+        "en": "Comic Sans MS"
+      }
+    }
+  },
+  "ComicSansMS-BoldItalic": {
+    "postscriptName": "ComicSansMS-BoldItalic",
+    "fullName": "Comic Sans MS Bold Italic",
+    "familyName": "Comic Sans MS",
+    "subfamilyName": "Bold Italic",
+    "records": {
+      "postscriptName": {
+        "en": "ComicSansMS-BoldItalic"
+      },
+      "fontFamily": {
+        "en": "Comic Sans MS"
+      }
+    }
+  },
+  "Consolas": {
+    "postscriptName": "Consolas",
+    "fullName": "Consolas",
+    "familyName": "Consolas",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "0-0": "Consolas",
+        "en": "Consolas"
+      },
+      "fontFamily": {
+        "0-0": "Consolas",
+        "en": "Consolas"
+      }
+    }
+  },
+  "Consolas-Italic": {
+    "postscriptName": "Consolas-Italic",
+    "fullName": "Consolas Italic",
+    "familyName": "Consolas",
+    "subfamilyName": "Italic",
+    "records": {
+      "postscriptName": {
+        "0-0": "Consolas-Italic",
+        "en": "Consolas-Italic"
+      },
+      "fontFamily": {
+        "0-0": "Consolas",
+        "en": "Consolas"
+      }
+    }
+  },
+  "Consolas-Bold": {
+    "postscriptName": "Consolas-Bold",
+    "fullName": "Consolas Bold",
+    "familyName": "Consolas",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "0-0": "Consolas-Bold",
+        "en": "Consolas-Bold"
+      },
+      "fontFamily": {
+        "0-0": "Consolas",
+        "en": "Consolas"
+      }
+    }
+  },
+  "Consolas-BoldItalic": {
+    "postscriptName": "Consolas-BoldItalic",
+    "fullName": "Consolas Bold Italic",
+    "familyName": "Consolas",
+    "subfamilyName": "Bold Italic",
+    "records": {
+      "postscriptName": {
+        "0-0": "Consolas-BoldItalic",
+        "en": "Consolas-BoldItalic"
+      },
+      "fontFamily": {
+        "0-0": "Consolas",
+        "en": "Consolas"
+      }
+    }
+  },
+  "Constantia": {
+    "postscriptName": "Constantia",
+    "fullName": "Constantia",
+    "familyName": "Constantia",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "0-0": "Constantia",
+        "en": "Constantia"
+      },
+      "fontFamily": {
+        "0-0": "Constantia",
+        "en": "Constantia"
+      }
+    }
+  },
+  "Constantia-Italic": {
+    "postscriptName": "Constantia-Italic",
+    "fullName": "Constantia Italic",
+    "familyName": "Constantia",
+    "subfamilyName": "Italic",
+    "records": {
+      "postscriptName": {
+        "0-0": "Constantia-Italic",
+        "en": "Constantia-Italic"
+      },
+      "fontFamily": {
+        "0-0": "Constantia",
+        "en": "Constantia"
+      }
+    }
+  },
+  "Constantia-Bold": {
+    "postscriptName": "Constantia-Bold",
+    "fullName": "Constantia Bold",
+    "familyName": "Constantia",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "0-0": "Constantia-Bold",
+        "en": "Constantia-Bold"
+      },
+      "fontFamily": {
+        "0-0": "Constantia",
+        "en": "Constantia"
+      }
+    }
+  },
+  "Constantia-BoldItalic": {
+    "postscriptName": "Constantia-BoldItalic",
+    "fullName": "Constantia Bold Italic",
+    "familyName": "Constantia",
+    "subfamilyName": "Bold Italic",
+    "records": {
+      "postscriptName": {
+        "0-0": "Constantia-BoldItalic",
+        "en": "Constantia-BoldItalic"
+      },
+      "fontFamily": {
+        "0-0": "Constantia",
+        "en": "Constantia"
+      }
+    }
+  },
+  "CorbelLight": {
+    "postscriptName": "CorbelLight",
+    "fullName": "Corbel Light",
+    "familyName": "Corbel Light",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Corbel",
+    "records": {
+      "postscriptName": {
+        "0-0": "Corbel-Light",
+        "en": "CorbelLight"
+      },
+      "preferredFamily": {
+        "en": "Corbel"
+      },
+      "preferredSubfamily": {
+        "en": "Light"
+      },
+      "fontFamily": {
+        "0-0": "Corbel Light",
+        "en": "Corbel Light"
+      }
+    }
+  },
+  "CorbelLight-Italic": {
+    "postscriptName": "CorbelLight-Italic",
+    "fullName": "Corbel Light Italic",
+    "familyName": "Corbel Light",
+    "subfamilyName": "Italic",
+    "preferredFamily": "Corbel",
+    "records": {
+      "postscriptName": {
+        "0-0": "Corbel-LightItalic",
+        "en": "CorbelLight-Italic"
+      },
+      "preferredFamily": {
+        "en": "Corbel"
+      },
+      "preferredSubfamily": {
+        "en": "Light Italic"
+      },
+      "fontFamily": {
+        "0-0": "Corbel Light",
+        "en": "Corbel Light"
+      }
+    }
+  },
+  "Corbel": {
+    "postscriptName": "Corbel",
+    "fullName": "Corbel",
+    "familyName": "Corbel",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "0-0": "Corbel",
+        "en": "Corbel"
+      },
+      "fontFamily": {
+        "0-0": "Corbel",
+        "en": "Corbel"
+      }
+    }
+  },
+  "Corbel-Italic": {
+    "postscriptName": "Corbel-Italic",
+    "fullName": "Corbel Italic",
+    "familyName": "Corbel",
+    "subfamilyName": "Italic",
+    "records": {
+      "postscriptName": {
+        "0-0": "Corbel-Italic",
+        "en": "Corbel-Italic"
+      },
+      "fontFamily": {
+        "0-0": "Corbel",
+        "en": "Corbel"
+      }
+    }
+  },
+  "Corbel-Bold": {
+    "postscriptName": "Corbel-Bold",
+    "fullName": "Corbel Bold",
+    "familyName": "Corbel",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "0-0": "Corbel-Bold",
+        "en": "Corbel-Bold"
+      },
+      "fontFamily": {
+        "0-0": "Corbel",
+        "en": "Corbel"
+      }
+    }
+  },
+  "Corbel-BoldItalic": {
+    "postscriptName": "Corbel-BoldItalic",
+    "fullName": "Corbel Bold Italic",
+    "familyName": "Corbel",
+    "subfamilyName": "Bold Italic",
+    "records": {
+      "postscriptName": {
+        "0-0": "Corbel-BoldItalic",
+        "en": "Corbel-BoldItalic"
+      },
+      "fontFamily": {
+        "0-0": "Corbel",
+        "en": "Corbel"
+      }
+    }
+  },
+  "Ebrima": {
+    "postscriptName": "Ebrima",
+    "fullName": "Ebrima",
+    "familyName": "Ebrima",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "0-0": "Ebrima",
+        "en": "Ebrima"
+      },
+      "fontFamily": {
+        "0-0": "Ebrima",
+        "en": "Ebrima"
+      }
+    }
+  },
+  "Ebrima-Bold": {
+    "postscriptName": "Ebrima-Bold",
+    "fullName": "Ebrima Bold",
+    "familyName": "Ebrima",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "0-0": "Ebrima-Bold",
+        "en": "Ebrima-Bold"
+      },
+      "fontFamily": {
+        "0-0": "Ebrima",
+        "en": "Ebrima"
+      }
+    }
+  },
+  "FranklinGothic-Medium": {
+    "postscriptName": "FranklinGothic-Medium",
+    "fullName": "Franklin Gothic Medium",
+    "familyName": "Franklin Gothic Medium",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "FranklinGothic-Medium"
+      },
+      "fontFamily": {
+        "en": "Franklin Gothic Medium"
+      }
+    }
+  },
+  "FranklinGothic-MediumItalic": {
+    "postscriptName": "FranklinGothic-MediumItalic",
+    "fullName": "Franklin Gothic Medium Italic",
+    "familyName": "Franklin Gothic Medium",
+    "subfamilyName": "Italic",
+    "records": {
+      "postscriptName": {
+        "en": "FranklinGothic-MediumItalic"
+      },
+      "fontFamily": {
+        "en": "Franklin Gothic Medium"
+      }
+    }
+  },
+  "Gabriola": {
+    "postscriptName": "Gabriola",
+    "fullName": "Gabriola",
+    "familyName": "Gabriola",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "Gabriola"
+      },
+      "fontFamily": {
+        "en": "Gabriola"
+      }
+    }
+  },
+  "Gadugi": {
+    "postscriptName": "Gadugi",
+    "fullName": "Gadugi",
+    "familyName": "Gadugi",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "Gadugi"
+      },
+      "fontFamily": {
+        "en": "Gadugi"
+      }
+    }
+  },
+  "Gadugi-Bold": {
+    "postscriptName": "Gadugi-Bold",
+    "fullName": "Gadugi Bold",
+    "familyName": "Gadugi",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "en": "Gadugi-Bold"
+      },
+      "fontFamily": {
+        "en": "Gadugi"
+      }
+    }
+  },
+  "InkFree": {
+    "postscriptName": "InkFree",
+    "fullName": "Ink Free",
+    "familyName": "Ink Free",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "InkFree"
+      },
+      "fontFamily": {
+        "en": "Ink Free"
+      }
+    }
+  },
+  "JavaneseText": {
+    "postscriptName": "JavaneseText",
+    "fullName": "Javanese Text",
+    "familyName": "Javanese Text",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "JavaneseText"
+      },
+      "fontFamily": {
+        "en": "Javanese Text"
+      }
+    }
+  },
+  "LeelawadeeUI-Semilight": {
+    "postscriptName": "LeelawadeeUI-Semilight",
+    "fullName": "Leelawadee UI Semilight",
+    "familyName": "Leelawadee UI Semilight",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Leelawadee UI",
+    "records": {
+      "postscriptName": {
+        "en": "LeelawadeeUI-Semilight"
+      },
+      "preferredFamily": {
+        "en": "Leelawadee UI"
+      },
+      "preferredSubfamily": {
+        "en": "Semilight"
+      },
+      "fontFamily": {
+        "en": "Leelawadee UI Semilight"
+      }
+    }
+  },
+  "LeelawadeeUI": {
+    "postscriptName": "LeelawadeeUI",
+    "fullName": "Leelawadee UI",
+    "familyName": "Leelawadee UI",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "LeelawadeeUI"
+      },
+      "fontFamily": {
+        "en": "Leelawadee UI"
+      }
+    }
+  },
+  "LeelawadeeUI-Bold": {
+    "postscriptName": "LeelawadeeUI-Bold",
+    "fullName": "Leelawadee UI Bold",
+    "familyName": "Leelawadee UI",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "en": "LeelawadeeUI-Bold"
+      },
+      "fontFamily": {
+        "en": "Leelawadee UI"
+      }
+    }
+  },
+  "LucidaConsole": {
+    "postscriptName": "LucidaConsole",
+    "fullName": "Lucida Console",
+    "familyName": "Lucida Console",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "LucidaConsole"
+      },
+      "fontFamily": {
+        "en": "Lucida Console"
+      }
+    }
+  },
+  "LucidaSansUnicode": {
+    "postscriptName": "LucidaSansUnicode",
+    "fullName": "Lucida Sans Unicode",
+    "familyName": "Lucida Sans Unicode",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "LucidaSansUnicode"
+      },
+      "fontFamily": {
+        "en": "Lucida Sans Unicode"
+      }
+    }
+  },
+  "MalgunGothic-Semilight": {
+    "postscriptName": "MalgunGothic-Semilight",
+    "fullName": "Malgun Gothic Semilight",
+    "familyName": "Malgun Gothic Semilight",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Malgun Gothic",
+    "records": {
+      "postscriptName": {
+        "en": "MalgunGothic-Semilight",
+        "ko": "MalgunGothic-Semilight"
+      },
+      "preferredFamily": {
+        "en": "Malgun Gothic",
+        "ko": "맑은 고딕"
+      },
+      "preferredSubfamily": {
+        "en": "Semilight",
+        "ko": "Semilight"
+      },
+      "fontFamily": {
+        "en": "Malgun Gothic Semilight",
+        "ko": "맑은 고딕 Semilight"
+      }
+    }
+  },
+  "MalgunGothic": {
+    "postscriptName": "MalgunGothic",
+    "fullName": "Malgun Gothic",
+    "familyName": "Malgun Gothic",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "MalgunGothic",
+        "ko": "MalgunGothic"
+      },
+      "fontFamily": {
+        "en": "Malgun Gothic",
+        "ko": "맑은 고딕"
+      }
+    }
+  },
+  "MalgunGothicBold": {
+    "postscriptName": "MalgunGothicBold",
+    "fullName": "Malgun Gothic Bold",
+    "familyName": "Malgun Gothic",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "en": "MalgunGothicBold",
+        "ko": "MalgunGothicBold"
+      },
+      "fontFamily": {
+        "en": "Malgun Gothic",
+        "ko": "맑은 고딕"
+      }
+    }
+  },
+  "Microsoft Himalaya": {
+    "postscriptName": "Microsoft Himalaya",
+    "fullName": "Microsoft Himalaya",
+    "familyName": "Microsoft Himalaya",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "Microsoft Himalaya"
+      },
+      "fontFamily": {
+        "en": "Microsoft Himalaya"
+      }
+    }
+  },
+  "MicrosoftJhengHeiLight": {
+    "postscriptName": "MicrosoftJhengHeiLight",
+    "fullName": "Microsoft JhengHei Light",
+    "familyName": "Microsoft JhengHei Light",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Microsoft JhengHei",
+    "ZH_fontFamily": "微軟正黑體",
+    "ZH_subfamilyName": "Light",
+    "records": {
+      "postscriptName": {
+        "zh-TW": "MicrosoftJhengHeiLight",
+        "en": "MicrosoftJhengHeiLight",
+        "zh-HK": "MicrosoftJhengHeiLight"
+      },
+      "preferredFamily": {
+        "zh-TW": "微軟正黑體",
+        "en": "Microsoft JhengHei",
+        "zh-HK": "微軟正黑體"
+      },
+      "preferredSubfamily": {
+        "zh-TW": "Light",
+        "en": "Light",
+        "zh-HK": "Light"
+      },
+      "fontFamily": {
+        "zh-TW": "微軟正黑體 Light",
+        "en": "Microsoft JhengHei Light",
+        "zh-HK": "微軟正黑體 Light"
+      }
+    }
+  },
+  "MicrosoftJhengHeiUILight": {
+    "postscriptName": "MicrosoftJhengHeiUILight",
+    "fullName": "Microsoft JhengHei UI Light",
+    "familyName": "Microsoft JhengHei UI Light",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Microsoft JhengHei UI",
+    "ZH_fontFamily": "Microsoft JhengHei UI",
+    "ZH_subfamilyName": "Light",
+    "records": {
+      "postscriptName": {
+        "zh-TW": "MicrosoftJhengHeiUILight",
+        "en": "MicrosoftJhengHeiUILight",
+        "zh-HK": "MicrosoftJhengHeiUILight"
+      },
+      "preferredFamily": {
+        "zh-TW": "Microsoft JhengHei UI",
+        "en": "Microsoft JhengHei UI",
+        "zh-HK": "Microsoft JhengHei UI"
+      },
+      "preferredSubfamily": {
+        "zh-TW": "Light",
+        "en": "Light",
+        "zh-HK": "Light"
+      },
+      "fontFamily": {
+        "zh-TW": "Microsoft JhengHei UI Light",
+        "en": "Microsoft JhengHei UI Light",
+        "zh-HK": "Microsoft JhengHei UI Light"
+      }
+    }
+  },
+  "MicrosoftJhengHeiRegular": {
+    "postscriptName": "MicrosoftJhengHeiRegular",
+    "fullName": "Microsoft JhengHei",
+    "familyName": "Microsoft JhengHei",
+    "subfamilyName": "Regular",
+    "ZH_fontFamily": "微軟正黑體",
+    "records": {
+      "postscriptName": {
+        "zh-TW": "MicrosoftJhengHeiRegular",
+        "en": "MicrosoftJhengHeiRegular",
+        "zh-HK": "MicrosoftJhengHeiRegular"
+      },
+      "fontFamily": {
+        "zh-TW": "微軟正黑體",
+        "en": "Microsoft JhengHei",
+        "zh-HK": "微軟正黑體"
+      }
+    }
+  },
+  "MicrosoftJhengHeiUIRegular": {
+    "postscriptName": "MicrosoftJhengHeiUIRegular",
+    "fullName": "Microsoft JhengHei UI",
+    "familyName": "Microsoft JhengHei UI",
+    "subfamilyName": "Regular",
+    "ZH_fontFamily": "Microsoft JhengHei UI",
+    "records": {
+      "postscriptName": {
+        "zh-TW": "MicrosoftJhengHeiUIRegular",
+        "en": "MicrosoftJhengHeiUIRegular",
+        "zh-HK": "MicrosoftJhengHeiUIRegular"
+      },
+      "fontFamily": {
+        "zh-TW": "Microsoft JhengHei UI",
+        "en": "Microsoft JhengHei UI",
+        "zh-HK": "Microsoft JhengHei UI"
+      }
+    }
+  },
+  "MicrosoftJhengHeiBold": {
+    "postscriptName": "MicrosoftJhengHeiBold",
+    "fullName": "Microsoft JhengHei Bold",
+    "familyName": "Microsoft JhengHei",
+    "subfamilyName": "Bold",
+    "ZH_fontFamily": "微軟正黑體",
+    "records": {
+      "postscriptName": {
+        "zh-TW": "MicrosoftJhengHeiBold",
+        "en": "MicrosoftJhengHeiBold",
+        "zh-HK": "MicrosoftJhengHeiBold"
+      },
+      "fontFamily": {
+        "zh-TW": "微軟正黑體",
+        "en": "Microsoft JhengHei",
+        "zh-HK": "微軟正黑體"
+      }
+    }
+  },
+  "MicrosoftJhengHeiUIBold": {
+    "postscriptName": "MicrosoftJhengHeiUIBold",
+    "fullName": "Microsoft JhengHei UI Bold",
+    "familyName": "Microsoft JhengHei UI",
+    "subfamilyName": "Bold",
+    "ZH_fontFamily": "Microsoft JhengHei UI",
+    "records": {
+      "postscriptName": {
+        "zh-TW": "MicrosoftJhengHeiUIBold",
+        "en": "MicrosoftJhengHeiUIBold",
+        "zh-HK": "MicrosoftJhengHeiUIBold"
+      },
+      "fontFamily": {
+        "zh-TW": "Microsoft JhengHei UI",
+        "en": "Microsoft JhengHei UI",
+        "zh-HK": "Microsoft JhengHei UI"
+      }
+    }
+  },
+  "MicrosoftNewTaiLue": {
+    "postscriptName": "MicrosoftNewTaiLue",
+    "fullName": "Microsoft New Tai Lue",
+    "familyName": "Microsoft New Tai Lue",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "MicrosoftNewTaiLue"
+      },
+      "fontFamily": {
+        "en": "Microsoft New Tai Lue"
+      }
+    }
+  },
+  "MicrosoftNewTaiLue-Bold": {
+    "postscriptName": "MicrosoftNewTaiLue-Bold",
+    "fullName": "Microsoft New Tai Lue Bold",
+    "familyName": "Microsoft New Tai Lue",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "en": "MicrosoftNewTaiLue-Bold"
+      },
+      "fontFamily": {
+        "en": "Microsoft New Tai Lue"
+      }
+    }
+  },
+  "MicrosoftPhagsPa": {
+    "postscriptName": "MicrosoftPhagsPa",
+    "fullName": "Microsoft PhagsPa",
+    "familyName": "Microsoft PhagsPa",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "MicrosoftPhagsPa"
+      },
+      "fontFamily": {
+        "en": "Microsoft PhagsPa"
+      }
+    }
+  },
+  "MicrosoftPhagsPa-Bold": {
+    "postscriptName": "MicrosoftPhagsPa-Bold",
+    "fullName": "Microsoft PhagsPa Bold",
+    "familyName": "Microsoft PhagsPa",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "en": "MicrosoftPhagsPa-Bold"
+      },
+      "fontFamily": {
+        "en": "Microsoft PhagsPa"
+      }
+    }
+  },
+  "MicrosoftTaiLe": {
+    "postscriptName": "MicrosoftTaiLe",
+    "fullName": "Microsoft Tai Le",
+    "familyName": "Microsoft Tai Le",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "MicrosoftTaiLe"
+      },
+      "fontFamily": {
+        "en": "Microsoft Tai Le"
+      }
+    }
+  },
+  "MicrosoftTaiLe-Bold": {
+    "postscriptName": "MicrosoftTaiLe-Bold",
+    "fullName": "Microsoft Tai Le Bold",
+    "familyName": "Microsoft Tai Le",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "en": "MicrosoftTaiLe-Bold"
+      },
+      "fontFamily": {
+        "en": "Microsoft Tai Le"
+      }
+    }
+  },
+  "MicrosoftYaHeiLight": {
+    "postscriptName": "MicrosoftYaHeiLight",
+    "fullName": "Microsoft YaHei Light",
+    "familyName": "Microsoft YaHei Light",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Microsoft YaHei",
+    "ZH_fontFamily": "微软雅黑",
+    "ZH_subfamilyName": "Light",
+    "records": {
+      "postscriptName": {
+        "en": "MicrosoftYaHeiLight",
+        "zh": "微软雅黑 Light"
+      },
+      "preferredFamily": {
+        "en": "Microsoft YaHei",
+        "zh": "微软雅黑"
+      },
+      "preferredSubfamily": {
+        "en": "Light",
+        "zh": "Light"
+      },
+      "fontFamily": {
+        "en": "Microsoft YaHei Light",
+        "zh": "微软雅黑 Light"
+      }
+    }
+  },
+  "MicrosoftYaHeiUILight": {
+    "postscriptName": "MicrosoftYaHeiUILight",
+    "fullName": "Microsoft YaHei UI Light",
+    "familyName": "Microsoft YaHei UI Light",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Microsoft YaHei UI",
+    "ZH_fontFamily": "Microsoft YaHei UI",
+    "ZH_subfamilyName": "Light",
+    "records": {
+      "postscriptName": {
+        "en": "MicrosoftYaHeiUILight",
+        "zh": "MicrosoftYaHeiUILight"
+      },
+      "preferredFamily": {
+        "en": "Microsoft YaHei UI",
+        "zh": "Microsoft YaHei UI"
+      },
+      "preferredSubfamily": {
+        "en": "Light",
+        "zh": "Light"
+      },
+      "fontFamily": {
+        "en": "Microsoft YaHei UI Light",
+        "zh": "Microsoft YaHei UI Light"
+      }
+    }
+  },
+  "MicrosoftYaHei": {
+    "postscriptName": "MicrosoftYaHei",
+    "fullName": "Microsoft YaHei",
+    "familyName": "Microsoft YaHei",
+    "subfamilyName": "Regular",
+    "ZH_fontFamily": "微软雅黑",
+    "records": {
+      "postscriptName": {
+        "en": "MicrosoftYaHei",
+        "zh": "MicrosoftYaHeiRegular"
+      },
+      "fontFamily": {
+        "en": "Microsoft YaHei",
+        "zh": "微软雅黑"
+      }
+    }
+  },
+  "MicrosoftYaHeiUI": {
+    "postscriptName": "MicrosoftYaHeiUI",
+    "fullName": "Microsoft YaHei UI",
+    "familyName": "Microsoft YaHei UI",
+    "subfamilyName": "Regular",
+    "ZH_fontFamily": "Microsoft YaHei UI",
+    "records": {
+      "postscriptName": {
+        "en": "MicrosoftYaHeiUI",
+        "zh": "MicrosoftYaHeiUIRegular"
+      },
+      "fontFamily": {
+        "en": "Microsoft YaHei UI",
+        "zh": "Microsoft YaHei UI"
+      }
+    }
+  },
+  "MicrosoftYaHei-Bold": {
+    "postscriptName": "MicrosoftYaHei-Bold",
+    "fullName": "Microsoft YaHei Bold",
+    "familyName": "Microsoft YaHei",
+    "subfamilyName": "Bold",
+    "ZH_fontFamily": "微软雅黑",
+    "records": {
+      "postscriptName": {
+        "en": "MicrosoftYaHei-Bold",
+        "zh": "MicrosoftYaHei-Bold"
+      },
+      "fontFamily": {
+        "en": "Microsoft YaHei",
+        "zh": "微软雅黑"
+      }
+    }
+  },
+  "MicrosoftYaHeiUI-Bold": {
+    "postscriptName": "MicrosoftYaHeiUI-Bold",
+    "fullName": "Microsoft YaHei UI Bold",
+    "familyName": "Microsoft YaHei UI",
+    "subfamilyName": "Bold",
+    "ZH_fontFamily": "Microsoft YaHei UI",
+    "records": {
+      "postscriptName": {
+        "en": "MicrosoftYaHeiUI-Bold",
+        "zh": "MicrosoftYaHeiUI-Bold"
+      },
+      "fontFamily": {
+        "en": "Microsoft YaHei UI",
+        "zh": "Microsoft YaHei UI"
+      }
+    }
+  },
+  "Microsoft-Yi-Baiti": {
+    "postscriptName": "Microsoft-Yi-Baiti",
+    "fullName": "Microsoft Yi Baiti",
+    "familyName": "Microsoft Yi Baiti",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "Microsoft-Yi-Baiti"
+      },
+      "fontFamily": {
+        "en": "Microsoft Yi Baiti"
+      }
+    }
+  },
+  "MingLiU-ExtB": {
+    "postscriptName": "MingLiU-ExtB",
+    "fullName": "MingLiU-ExtB",
+    "familyName": "MingLiU-ExtB",
+    "subfamilyName": "Regular",
+    "ZH_fontFamily": "細明體-ExtB",
+    "records": {
+      "postscriptName": {
+        "en": "MingLiU-ExtB",
+        "zh-TW": "MingLiU-ExtB",
+        "zh-HK": "MingLiU-ExtB"
+      },
+      "fontFamily": {
+        "en": "MingLiU-ExtB",
+        "zh-TW": "細明體-ExtB",
+        "zh-HK": "細明體-ExtB"
+      }
+    }
+  },
+  "PMingLiU-ExtB": {
+    "postscriptName": "PMingLiU-ExtB",
+    "fullName": "PMingLiU-ExtB",
+    "familyName": "PMingLiU-ExtB",
+    "subfamilyName": "Regular",
+    "ZH_fontFamily": "新細明體-ExtB",
+    "records": {
+      "postscriptName": {
+        "en": "PMingLiU-ExtB",
+        "zh-TW": "PMingLiU-ExtB",
+        "zh-HK": "PMingLiU-ExtB"
+      },
+      "fontFamily": {
+        "en": "PMingLiU-ExtB",
+        "zh-TW": "新細明體-ExtB",
+        "zh-HK": "新細明體-ExtB"
+      }
+    }
+  },
+  "Ming-Lt-HKSCS-ExtB": {
+    "postscriptName": "Ming-Lt-HKSCS-ExtB",
+    "fullName": "MingLiU_HKSCS-ExtB",
+    "familyName": "MingLiU_HKSCS-ExtB",
+    "subfamilyName": "Regular",
+    "ZH_fontFamily": "細明體_HKSCS-ExtB",
+    "records": {
+      "postscriptName": {
+        "en": "Ming-Lt-HKSCS-ExtB",
+        "zh-TW": "Ming-Lt-HKSCS-ExtB",
+        "zh-HK": "Ming-Lt-HKSCS-ExtB"
+      },
+      "fontFamily": {
+        "en": "MingLiU_HKSCS-ExtB",
+        "zh-TW": "細明體_HKSCS-ExtB",
+        "zh-HK": "細明體_HKSCS-ExtB"
+      }
+    }
+  },
+  "MongolianBaiti": {
+    "postscriptName": "MongolianBaiti",
+    "fullName": "Mongolian Baiti",
+    "familyName": "Mongolian Baiti",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "MongolianBaiti"
+      },
+      "fontFamily": {
+        "en": "Mongolian Baiti"
+      }
+    }
+  },
+  "MS-Gothic": {
+    "postscriptName": "MS-Gothic",
+    "fullName": "MS Gothic",
+    "familyName": "MS Gothic",
+    "subfamilyName": "Regular",
+    "JP_fontFamily": "ＭＳ ゴシック",
+    "records": {
+      "postscriptName": {
+        "en": "MS-Gothic",
+        "ja": "MS-Gothic"
+      },
+      "fontFamily": {
+        "en": "MS Gothic",
+        "ja": "ＭＳ ゴシック"
+      }
+    }
+  },
+  "MS-UIGothic": {
+    "postscriptName": "MS-UIGothic",
+    "fullName": "MS UI Gothic",
+    "familyName": "MS UI Gothic",
+    "subfamilyName": "Regular",
+    "JP_fontFamily": "MS UI Gothic",
+    "records": {
+      "postscriptName": {
+        "en": "MS-UIGothic",
+        "ja": "MS-UIGothic"
+      },
+      "fontFamily": {
+        "en": "MS UI Gothic",
+        "ja": "MS UI Gothic"
+      }
+    }
+  },
+  "MS-PGothic": {
+    "postscriptName": "MS-PGothic",
+    "fullName": "MS PGothic",
+    "familyName": "MS PGothic",
+    "subfamilyName": "Regular",
+    "JP_fontFamily": "ＭＳ Ｐゴシック",
+    "records": {
+      "postscriptName": {
+        "en": "MS-PGothic",
+        "ja": "MS-PGothic"
+      },
+      "fontFamily": {
+        "en": "MS PGothic",
+        "ja": "ＭＳ Ｐゴシック"
+      }
+    }
+  },
+  "MVBoli": {
+    "postscriptName": "MVBoli",
+    "fullName": "MV Boli",
+    "familyName": "MV Boli",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "MVBoli"
+      },
+      "fontFamily": {
+        "en": "MV Boli"
+      }
+    }
+  },
+  "MyanmarText": {
+    "postscriptName": "MyanmarText",
+    "fullName": "Myanmar Text",
+    "familyName": "Myanmar Text",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "MyanmarText"
+      },
+      "fontFamily": {
+        "en": "Myanmar Text"
+      }
+    }
+  },
+  "MyanmarText-Bold": {
+    "postscriptName": "MyanmarText-Bold",
+    "fullName": "Myanmar Text Bold",
+    "familyName": "Myanmar Text",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "en": "MyanmarText-Bold"
+      },
+      "fontFamily": {
+        "en": "Myanmar Text"
+      }
+    }
+  },
+  "NirmalaUI-Semilight": {
+    "postscriptName": "NirmalaUI-Semilight",
+    "fullName": "Nirmala UI Semilight",
+    "familyName": "Nirmala UI Semilight",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Nirmala UI",
+    "records": {
+      "postscriptName": {
+        "en": "NirmalaUI-Semilight"
+      },
+      "preferredFamily": {
+        "en": "Nirmala UI"
+      },
+      "preferredSubfamily": {
+        "en": "Semilight"
+      },
+      "fontFamily": {
+        "en": "Nirmala UI Semilight"
+      }
+    }
+  },
+  "NirmalaUI": {
+    "postscriptName": "NirmalaUI",
+    "fullName": "Nirmala UI",
+    "familyName": "Nirmala UI",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "NirmalaUI"
+      },
+      "fontFamily": {
+        "en": "Nirmala UI"
+      }
+    }
+  },
+  "NirmalaUI-Bold": {
+    "postscriptName": "NirmalaUI-Bold",
+    "fullName": "Nirmala UI Bold",
+    "familyName": "Nirmala UI",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "en": "NirmalaUI-Bold"
+      },
+      "fontFamily": {
+        "en": "Nirmala UI"
+      }
+    }
+  },
+  "PalatinoLinotype-Roman": {
+    "postscriptName": "PalatinoLinotype-Roman",
+    "fullName": "Palatino Linotype",
+    "familyName": "Palatino Linotype",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "0-0": "PalatinoLinotype-Roman",
+        "en": "PalatinoLinotype-Roman"
+      },
+      "fontFamily": {
+        "0-0": "Palatino Linotype",
+        "en": "Palatino Linotype"
+      }
+    }
+  },
+  "PalatinoLinotype-Italic": {
+    "postscriptName": "PalatinoLinotype-Italic",
+    "fullName": "Palatino Linotype Italic",
+    "familyName": "Palatino Linotype",
+    "subfamilyName": "Italic",
+    "records": {
+      "postscriptName": {
+        "0-0": "PalatinoLinotype-Italic",
+        "en": "PalatinoLinotype-Italic"
+      },
+      "fontFamily": {
+        "0-0": "Palatino Linotype",
+        "en": "Palatino Linotype"
+      }
+    }
+  },
+  "PalatinoLinotype-Bold": {
+    "postscriptName": "PalatinoLinotype-Bold",
+    "fullName": "Palatino Linotype Bold",
+    "familyName": "Palatino Linotype",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "0-0": "PalatinoLinotype-Bold",
+        "en": "PalatinoLinotype-Bold"
+      },
+      "fontFamily": {
+        "0-0": "Palatino Linotype",
+        "en": "Palatino Linotype"
+      }
+    }
+  },
+  "PalatinoLinotype-BoldItalic": {
+    "postscriptName": "PalatinoLinotype-BoldItalic",
+    "fullName": "Palatino Linotype Bold Italic",
+    "familyName": "Palatino Linotype",
+    "subfamilyName": "Bold Italic",
+    "records": {
+      "postscriptName": {
+        "0-0": "PalatinoLinotype-BoldItalic",
+        "en": "PalatinoLinotype-BoldItalic"
+      },
+      "fontFamily": {
+        "0-0": "Palatino Linotype",
+        "en": "Palatino Linotype"
+      }
+    }
+  },
+  "SegoeMDL2Assets": {
+    "postscriptName": "SegoeMDL2Assets",
+    "fullName": "Segoe MDL2 Assets",
+    "familyName": "Segoe MDL2 Assets",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "SegoeMDL2Assets"
+      },
+      "fontFamily": {
+        "en": "Segoe MDL2 Assets"
+      }
+    }
+  },
+  "SegoePrint": {
+    "postscriptName": "SegoePrint",
+    "fullName": "Segoe Print",
+    "familyName": "Segoe Print",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "SegoePrint"
+      },
+      "fontFamily": {
+        "en": "Segoe Print"
+      }
+    }
+  },
+  "SegoePrint-Bold": {
+    "postscriptName": "SegoePrint-Bold",
+    "fullName": "Segoe Print Bold",
+    "familyName": "Segoe Print",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "en": "SegoePrint-Bold"
+      },
+      "fontFamily": {
+        "en": "Segoe Print"
+      }
+    }
+  },
+  "SegoeScript": {
+    "postscriptName": "SegoeScript",
+    "fullName": "Segoe Script",
+    "familyName": "Segoe Script",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "SegoeScript"
+      },
+      "fontFamily": {
+        "en": "Segoe Script"
+      }
+    }
+  },
+  "SegoeScript-Bold": {
+    "postscriptName": "SegoeScript-Bold",
+    "fullName": "Segoe Script Bold",
+    "familyName": "Segoe Script",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "en": "SegoeScript-Bold"
+      },
+      "fontFamily": {
+        "en": "Segoe Script"
+      }
+    }
+  },
+  "SegoeUI-Light": {
+    "postscriptName": "SegoeUI-Light",
+    "fullName": "Segoe UI Light",
+    "familyName": "Segoe UI Light",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Segoe UI",
+    "records": {
+      "postscriptName": {
+        "0-0": "SegoeUI-Light",
+        "en": "SegoeUI-Light"
+      },
+      "preferredFamily": {
+        "0-0": "Segoe UI",
+        "en": "Segoe UI"
+      },
+      "preferredSubfamily": {
+        "0-0": "Light",
+        "en": "Light"
+      },
+      "fontFamily": {
+        "0-0": "Segoe UI Light",
+        "en": "Segoe UI Light"
+      }
+    }
+  },
+  "SegoeUI-LightItalic": {
+    "postscriptName": "SegoeUI-LightItalic",
+    "fullName": "Segoe UI Light Italic",
+    "familyName": "Segoe UI Light",
+    "subfamilyName": "Italic",
+    "preferredFamily": "Segoe UI",
+    "records": {
+      "postscriptName": {
+        "0-0": "SegoeUI-LightItalic",
+        "en": "SegoeUI-LightItalic"
+      },
+      "preferredFamily": {
+        "0-0": "Segoe UI",
+        "en": "Segoe UI"
+      },
+      "preferredSubfamily": {
+        "0-0": "Light Italic",
+        "en": "Light Italic"
+      },
+      "fontFamily": {
+        "0-0": "Segoe UI Light",
+        "en": "Segoe UI Light"
+      }
+    }
+  },
+  "SegoeUI-Semilight": {
+    "postscriptName": "SegoeUI-Semilight",
+    "fullName": "Segoe UI Semilight",
+    "familyName": "Segoe UI Semilight",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Segoe UI",
+    "records": {
+      "postscriptName": {
+        "0-0": "SegoeUI-Semilight",
+        "en": "SegoeUI-Semilight"
+      },
+      "preferredFamily": {
+        "0-0": "Segoe UI",
+        "en": "Segoe UI"
+      },
+      "preferredSubfamily": {
+        "0-0": "Semilight",
+        "en": "Semilight"
+      },
+      "fontFamily": {
+        "0-0": "Segoe UI Semilight",
+        "en": "Segoe UI Semilight"
+      }
+    }
+  },
+  "SegoeUI-SemilightItalic": {
+    "postscriptName": "SegoeUI-SemilightItalic",
+    "fullName": "Segoe UI Semilight Italic",
+    "familyName": "Segoe UI Semilight",
+    "subfamilyName": "Italic",
+    "preferredFamily": "Segoe UI",
+    "records": {
+      "postscriptName": {
+        "0-0": "SegoeUI-SemilightItalic",
+        "en": "SegoeUI-SemilightItalic"
+      },
+      "preferredFamily": {
+        "0-0": "Segoe UI",
+        "en": "Segoe UI"
+      },
+      "preferredSubfamily": {
+        "0-0": "Semilight Italic",
+        "en": "Semilight Italic"
+      },
+      "fontFamily": {
+        "0-0": "Segoe UI Semilight",
+        "en": "Segoe UI Semilight"
+      }
+    }
+  },
+  "SegoeUI": {
+    "postscriptName": "SegoeUI",
+    "fullName": "Segoe UI",
+    "familyName": "Segoe UI",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "0-0": "SegoeUI",
+        "en": "SegoeUI"
+      },
+      "fontFamily": {
+        "0-0": "Segoe UI",
+        "en": "Segoe UI"
+      }
+    }
+  },
+  "SegoeUI-Italic": {
+    "postscriptName": "SegoeUI-Italic",
+    "fullName": "Segoe UI Italic",
+    "familyName": "Segoe UI",
+    "subfamilyName": "Italic",
+    "records": {
+      "postscriptName": {
+        "0-0": "SegoeUI-Italic",
+        "en": "SegoeUI-Italic"
+      },
+      "fontFamily": {
+        "0-0": "Segoe UI",
+        "en": "Segoe UI"
+      }
+    }
+  },
+  "SegoeUI-Semibold": {
+    "postscriptName": "SegoeUI-Semibold",
+    "fullName": "Segoe UI Semibold",
+    "familyName": "Segoe UI Semibold",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Segoe UI",
+    "records": {
+      "postscriptName": {
+        "0-0": "SegoeUI-Semibold",
+        "en": "SegoeUI-Semibold"
+      },
+      "preferredFamily": {
+        "0-0": "Segoe UI",
+        "en": "Segoe UI"
+      },
+      "preferredSubfamily": {
+        "0-0": "Semibold",
+        "en": "Semibold"
+      },
+      "fontFamily": {
+        "0-0": "Segoe UI Semibold",
+        "en": "Segoe UI Semibold"
+      }
+    }
+  },
+  "SegoeUI-SemiboldItalic": {
+    "postscriptName": "SegoeUI-SemiboldItalic",
+    "fullName": "Segoe UI Semibold Italic",
+    "familyName": "Segoe UI Semibold",
+    "subfamilyName": "Italic",
+    "preferredFamily": "Segoe UI",
+    "records": {
+      "postscriptName": {
+        "0-0": "SegoeUI-SemiboldItalic",
+        "en": "SegoeUI-SemiboldItalic"
+      },
+      "preferredFamily": {
+        "0-0": "Segoe UI",
+        "en": "Segoe UI"
+      },
+      "preferredSubfamily": {
+        "0-0": "Semibold Italic",
+        "en": "Semibold Italic"
+      },
+      "fontFamily": {
+        "0-0": "Segoe UI Semibold",
+        "en": "Segoe UI Semibold"
+      }
+    }
+  },
+  "SegoeUI-Bold": {
+    "postscriptName": "SegoeUI-Bold",
+    "fullName": "Segoe UI Bold",
+    "familyName": "Segoe UI",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "0-0": "SegoeUI-Bold",
+        "en": "SegoeUI-Bold"
+      },
+      "fontFamily": {
+        "0-0": "Segoe UI",
+        "en": "Segoe UI"
+      }
+    }
+  },
+  "SegoeUI-BoldItalic": {
+    "postscriptName": "SegoeUI-BoldItalic",
+    "fullName": "Segoe UI Bold Italic",
+    "familyName": "Segoe UI",
+    "subfamilyName": "Bold Italic",
+    "records": {
+      "postscriptName": {
+        "0-0": "SegoeUI-BoldItalic",
+        "en": "SegoeUI-BoldItalic"
+      },
+      "fontFamily": {
+        "0-0": "Segoe UI",
+        "en": "Segoe UI"
+      }
+    }
+  },
+  "SegoeUIBlack": {
+    "postscriptName": "SegoeUIBlack",
+    "fullName": "Segoe UI Black",
+    "familyName": "Segoe UI Black",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Segoe UI",
+    "records": {
+      "postscriptName": {
+        "0-0": "SegoeUIBlack",
+        "en": "SegoeUIBlack"
+      },
+      "preferredFamily": {
+        "0-0": "Segoe UI",
+        "en": "Segoe UI"
+      },
+      "preferredSubfamily": {
+        "0-0": "Black",
+        "en": "Black"
+      },
+      "fontFamily": {
+        "0-0": "Segoe UI Black",
+        "en": "Segoe UI Black"
+      }
+    }
+  },
+  "SegoeUIBlack-Italic": {
+    "postscriptName": "SegoeUIBlack-Italic",
+    "fullName": "Segoe UI Black Italic",
+    "familyName": "Segoe UI Black",
+    "subfamilyName": "Italic",
+    "preferredFamily": "Segoe UI",
+    "records": {
+      "postscriptName": {
+        "0-0": "SegoeUIBlack-Italic",
+        "en": "SegoeUIBlack-Italic"
+      },
+      "preferredFamily": {
+        "0-0": "Segoe UI",
+        "en": "Segoe UI"
+      },
+      "preferredSubfamily": {
+        "0-0": "Black Italic",
+        "en": "Black Italic"
+      },
+      "fontFamily": {
+        "0-0": "Segoe UI Black",
+        "en": "Segoe UI Black"
+      }
+    }
+  },
+  "SegoeUIEmoji": {
+    "postscriptName": "SegoeUIEmoji",
+    "fullName": "Segoe UI Emoji",
+    "familyName": "Segoe UI Emoji",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "SegoeUIEmoji"
+      },
+      "fontFamily": {
+        "en": "Segoe UI Emoji"
+      }
+    }
+  },
+  "SegoeUIHistoric": {
+    "postscriptName": "SegoeUIHistoric",
+    "fullName": "Segoe UI Historic",
+    "familyName": "Segoe UI Historic",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "SegoeUIHistoric"
+      },
+      "fontFamily": {
+        "en": "Segoe UI Historic"
+      }
+    }
+  },
+  "SegoeUISymbol": {
+    "postscriptName": "SegoeUISymbol",
+    "fullName": "Segoe UI Symbol",
+    "familyName": "Segoe UI Symbol",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "SegoeUISymbol"
+      },
+      "fontFamily": {
+        "en": "Segoe UI Symbol"
+      }
+    }
+  },
+  "SimSun": {
+    "postscriptName": "SimSun",
+    "fullName": "SimSun",
+    "familyName": "SimSun",
+    "subfamilyName": "Regular",
+    "ZH_fontFamily": "宋体",
+    "records": {
+      "postscriptName": {
+        "en": "SimSun",
+        "zh": "宋体",
+        "zh-SG": "宋体"
+      },
+      "fontFamily": {
+        "en": "SimSun",
+        "zh": "宋体",
+        "zh-SG": "宋体"
+      }
+    }
+  },
+  "NSimSun": {
+    "postscriptName": "NSimSun",
+    "fullName": "NSimSun",
+    "familyName": "NSimSun",
+    "subfamilyName": "Regular",
+    "ZH_fontFamily": "新宋体",
+    "records": {
+      "postscriptName": {
+        "en": "NSimSun",
+        "zh": "新宋体",
+        "zh-SG": "新宋体"
+      },
+      "fontFamily": {
+        "en": "NSimSun",
+        "zh": "新宋体",
+        "zh-SG": "新宋体"
+      }
+    }
+  },
+  "SimSun-ExtB": {
+    "postscriptName": "SimSun-ExtB",
+    "fullName": "SimSun-ExtB",
+    "familyName": "SimSun-ExtB",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "SimSun-ExtB"
+      },
+      "fontFamily": {
+        "en": "SimSun-ExtB"
+      }
+    }
+  },
+  "SitkaSmall": {
+    "postscriptName": "SitkaSmall",
+    "fullName": "Sitka Small",
+    "familyName": "Sitka Small",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaSmall"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Small"
+      },
+      "fontFamily": {
+        "en": "Sitka Small"
+      }
+    }
+  },
+  "SitkaText": {
+    "postscriptName": "SitkaText",
+    "fullName": "Sitka Text",
+    "familyName": "Sitka Text",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaText"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Text"
+      },
+      "fontFamily": {
+        "en": "Sitka Text"
+      }
+    }
+  },
+  "SitkaSubheading": {
+    "postscriptName": "SitkaSubheading",
+    "fullName": "Sitka Subheading",
+    "familyName": "Sitka Subheading",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaSubheading"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Subheading"
+      },
+      "fontFamily": {
+        "en": "Sitka Subheading"
+      }
+    }
+  },
+  "SitkaHeading": {
+    "postscriptName": "SitkaHeading",
+    "fullName": "Sitka Heading",
+    "familyName": "Sitka Heading",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaHeading"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Heading"
+      },
+      "fontFamily": {
+        "en": "Sitka Heading"
+      }
+    }
+  },
+  "SitkaDisplay": {
+    "postscriptName": "SitkaDisplay",
+    "fullName": "Sitka Display",
+    "familyName": "Sitka Display",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaDisplay"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Display"
+      },
+      "fontFamily": {
+        "en": "Sitka Display"
+      }
+    }
+  },
+  "SitkaBanner": {
+    "postscriptName": "SitkaBanner",
+    "fullName": "Sitka Banner",
+    "familyName": "Sitka Banner",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaBanner"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Banner"
+      },
+      "fontFamily": {
+        "en": "Sitka Banner"
+      }
+    }
+  },
+  "SitkaSmall-Italic": {
+    "postscriptName": "SitkaSmall-Italic",
+    "fullName": "Sitka Small Italic",
+    "familyName": "Sitka Small",
+    "subfamilyName": "Italic",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaSmall-Italic"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Small Italic"
+      },
+      "fontFamily": {
+        "en": "Sitka Small"
+      }
+    }
+  },
+  "SitkaText-Italic": {
+    "postscriptName": "SitkaText-Italic",
+    "fullName": "Sitka Text Italic",
+    "familyName": "Sitka Text",
+    "subfamilyName": "Italic",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaText-Italic"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Text Italic"
+      },
+      "fontFamily": {
+        "en": "Sitka Text"
+      }
+    }
+  },
+  "SitkaSubheading-Italic": {
+    "postscriptName": "SitkaSubheading-Italic",
+    "fullName": "Sitka Subheading Italic",
+    "familyName": "Sitka Subheading",
+    "subfamilyName": "Italic",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaSubheading-Italic"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Subheading Italic"
+      },
+      "fontFamily": {
+        "en": "Sitka Subheading"
+      }
+    }
+  },
+  "SitkaHeading-Italic": {
+    "postscriptName": "SitkaHeading-Italic",
+    "fullName": "Sitka Heading Italic",
+    "familyName": "Sitka Heading",
+    "subfamilyName": "Italic",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaHeading-Italic"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Heading Italic"
+      },
+      "fontFamily": {
+        "en": "Sitka Heading"
+      }
+    }
+  },
+  "SitkaDisplay-Italic": {
+    "postscriptName": "SitkaDisplay-Italic",
+    "fullName": "Sitka Display Italic",
+    "familyName": "Sitka Display",
+    "subfamilyName": "Italic",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaDisplay-Italic"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Display Italic"
+      },
+      "fontFamily": {
+        "en": "Sitka Display"
+      }
+    }
+  },
+  "SitkaBanner-Italic": {
+    "postscriptName": "SitkaBanner-Italic",
+    "fullName": "Sitka Banner Italic",
+    "familyName": "Sitka Banner",
+    "subfamilyName": "Italic",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaBanner-Italic"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Banner Italic"
+      },
+      "fontFamily": {
+        "en": "Sitka Banner"
+      }
+    }
+  },
+  "SitkaSmall-Bold": {
+    "postscriptName": "SitkaSmall-Bold",
+    "fullName": "Sitka Small Bold",
+    "familyName": "Sitka Small",
+    "subfamilyName": "Bold",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaSmall-Bold"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Small Bold"
+      },
+      "fontFamily": {
+        "en": "Sitka Small"
+      }
+    }
+  },
+  "SitkaText-Bold": {
+    "postscriptName": "SitkaText-Bold",
+    "fullName": "Sitka Text Bold",
+    "familyName": "Sitka Text",
+    "subfamilyName": "Bold",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaText-Bold"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Text Bold"
+      },
+      "fontFamily": {
+        "en": "Sitka Text"
+      }
+    }
+  },
+  "SitkaSubheading-Bold": {
+    "postscriptName": "SitkaSubheading-Bold",
+    "fullName": "Sitka Subheading Bold",
+    "familyName": "Sitka Subheading",
+    "subfamilyName": "Bold",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaSubheading-Bold"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Subheading Bold"
+      },
+      "fontFamily": {
+        "en": "Sitka Subheading"
+      }
+    }
+  },
+  "SitkaHeading-Bold": {
+    "postscriptName": "SitkaHeading-Bold",
+    "fullName": "Sitka Heading Bold",
+    "familyName": "Sitka Heading",
+    "subfamilyName": "Bold",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaHeading-Bold"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Heading Bold"
+      },
+      "fontFamily": {
+        "en": "Sitka Heading"
+      }
+    }
+  },
+  "SitkaDisplay-Bold": {
+    "postscriptName": "SitkaDisplay-Bold",
+    "fullName": "Sitka Display Bold",
+    "familyName": "Sitka Display",
+    "subfamilyName": "Bold",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaDisplay-Bold"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Display Bold"
+      },
+      "fontFamily": {
+        "en": "Sitka Display"
+      }
+    }
+  },
+  "SitkaBanner-Bold": {
+    "postscriptName": "SitkaBanner-Bold",
+    "fullName": "Sitka Banner Bold",
+    "familyName": "Sitka Banner",
+    "subfamilyName": "Bold",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaBanner-Bold"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Banner Bold"
+      },
+      "fontFamily": {
+        "en": "Sitka Banner"
+      }
+    }
+  },
+  "SitkaSmall-BoldItalic": {
+    "postscriptName": "SitkaSmall-BoldItalic",
+    "fullName": "Sitka Small Bold Italic",
+    "familyName": "Sitka Small",
+    "subfamilyName": "Bold Italic",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaSmall-BoldItalic"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Small Bold Italic"
+      },
+      "fontFamily": {
+        "en": "Sitka Small"
+      }
+    }
+  },
+  "SitkaText-BoldItalic": {
+    "postscriptName": "SitkaText-BoldItalic",
+    "fullName": "Sitka Text Bold Italic",
+    "familyName": "Sitka Text",
+    "subfamilyName": "Bold Italic",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaText-BoldItalic"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Text Bold Italic"
+      },
+      "fontFamily": {
+        "en": "Sitka Text"
+      }
+    }
+  },
+  "SitkaSubheading-BoldItalic": {
+    "postscriptName": "SitkaSubheading-BoldItalic",
+    "fullName": "Sitka Subheading Bold Italic",
+    "familyName": "Sitka Subheading",
+    "subfamilyName": "Bold Italic",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaSubheading-BoldItalic"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Subheading Bold Italic"
+      },
+      "fontFamily": {
+        "en": "Sitka Subheading"
+      }
+    }
+  },
+  "SitkaHeading-BoldItalic": {
+    "postscriptName": "SitkaHeading-BoldItalic",
+    "fullName": "Sitka Heading Bold Italic",
+    "familyName": "Sitka Heading",
+    "subfamilyName": "Bold Italic",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaHeading-BoldItalic"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Heading Bold Italic"
+      },
+      "fontFamily": {
+        "en": "Sitka Heading"
+      }
+    }
+  },
+  "SitkaDisplay-BoldItalic": {
+    "postscriptName": "SitkaDisplay-BoldItalic",
+    "fullName": "Sitka Display Bold Italic",
+    "familyName": "Sitka Display",
+    "subfamilyName": "Bold Italic",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaDisplay-BoldItalic"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Display Bold Italic"
+      },
+      "fontFamily": {
+        "en": "Sitka Display"
+      }
+    }
+  },
+  "SitkaBanner-BoldItalic": {
+    "postscriptName": "SitkaBanner-BoldItalic",
+    "fullName": "Sitka Banner Bold Italic",
+    "familyName": "Sitka Banner",
+    "subfamilyName": "Bold Italic",
+    "preferredFamily": "Sitka",
+    "records": {
+      "postscriptName": {
+        "en": "SitkaBanner-BoldItalic"
+      },
+      "preferredFamily": {
+        "en": "Sitka"
+      },
+      "preferredSubfamily": {
+        "en": "Banner Bold Italic"
+      },
+      "fontFamily": {
+        "en": "Sitka Banner"
+      }
+    }
+  },
+  "Sylfaen": {
+    "postscriptName": "Sylfaen",
+    "fullName": "Sylfaen",
+    "familyName": "Sylfaen",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "Sylfaen"
+      },
+      "fontFamily": {
+        "en": "Sylfaen"
+      }
+    }
+  },
+  "[object Object]": {
+    "postscriptName": {
+      "type": "Buffer",
+      "data": [
+        0,
+        83,
+        0,
+        121,
+        0,
+        109,
+        0,
+        98,
+        0,
+        111,
+        0,
+        108,
+        0,
+        77,
+        0,
+        84
+      ]
+    },
+    "fullName": {
+      "type": "Buffer",
+      "data": [
+        0,
+        83,
+        0,
+        121,
+        0,
+        109,
+        0,
+        98,
+        0,
+        111,
+        0,
+        108
+      ]
+    },
+    "familyName": {
+      "type": "Buffer",
+      "data": [
+        0,
+        83,
+        0,
+        121,
+        0,
+        109,
+        0,
+        98,
+        0,
+        111,
+        0,
+        108
+      ]
+    },
+    "subfamilyName": {
+      "type": "Buffer",
+      "data": [
+        0,
+        82,
+        0,
+        101,
+        0,
+        103,
+        0,
+        117,
+        0,
+        108,
+        0,
+        97,
+        0,
+        114
+      ]
+    },
+    "records": {
+      "postscriptName": {
+        "en": {
+          "type": "Buffer",
+          "data": [
+            0,
+            83,
+            0,
+            121,
+            0,
+            109,
+            0,
+            98,
+            0,
+            111,
+            0,
+            108,
+            0,
+            77,
+            0,
+            84
+          ]
+        }
+      },
+      "fontFamily": {
+        "en": {
+          "type": "Buffer",
+          "data": [
+            0,
+            83,
+            0,
+            121,
+            0,
+            109,
+            0,
+            98,
+            0,
+            111,
+            0,
+            108
+          ]
+        }
+      }
+    }
+  },
+  "YuGothic-Light": {
+    "postscriptName": "YuGothic-Light",
+    "fullName": "Yu Gothic Light",
+    "familyName": "Yu Gothic Light",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Yu Gothic",
+    "JP_fontFamily": "游ゴシック",
+    "JP_subfamilyName": "Light",
+    "records": {
+      "postscriptName": {
+        "en": "YuGothic-Light"
+      },
+      "preferredFamily": {
+        "en": "Yu Gothic",
+        "ja": "游ゴシック"
+      },
+      "preferredSubfamily": {
+        "en": "Light",
+        "ja": "Light"
+      },
+      "fontFamily": {
+        "en": "Yu Gothic Light",
+        "ja": "游ゴシック Light"
+      }
+    }
+  },
+  "YuGothicUI-Light": {
+    "postscriptName": "YuGothicUI-Light",
+    "fullName": "Yu Gothic UI Light",
+    "familyName": "Yu Gothic UI Light",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Yu Gothic UI",
+    "records": {
+      "postscriptName": {
+        "en": "YuGothicUI-Light"
+      },
+      "preferredFamily": {
+        "en": "Yu Gothic UI"
+      },
+      "preferredSubfamily": {
+        "en": "Light"
+      },
+      "fontFamily": {
+        "en": "Yu Gothic UI Light"
+      }
+    }
+  },
+  "YuGothic-Regular": {
+    "postscriptName": "YuGothic-Regular",
+    "fullName": "Yu Gothic Regular",
+    "familyName": "Yu Gothic",
+    "subfamilyName": "Regular",
+    "JP_fontFamily": "游ゴシック",
+    "records": {
+      "postscriptName": {
+        "en": "YuGothic-Regular"
+      },
+      "fontFamily": {
+        "en": "Yu Gothic",
+        "ja": "游ゴシック"
+      }
+    }
+  },
+  "YuGothicUI-Semilight": {
+    "postscriptName": "YuGothicUI-Semilight",
+    "fullName": "Yu Gothic UI Semilight",
+    "familyName": "Yu Gothic UI Semilight",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Yu Gothic UI",
+    "records": {
+      "postscriptName": {
+        "en": "YuGothicUI-Semilight"
+      },
+      "preferredFamily": {
+        "en": "Yu Gothic UI"
+      },
+      "preferredSubfamily": {
+        "en": "Semilight"
+      },
+      "fontFamily": {
+        "en": "Yu Gothic UI Semilight"
+      }
+    }
+  },
+  "YuGothic-Medium": {
+    "postscriptName": "YuGothic-Medium",
+    "fullName": "Yu Gothic Medium",
+    "familyName": "Yu Gothic Medium",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Yu Gothic",
+    "JP_fontFamily": "游ゴシック",
+    "JP_subfamilyName": "Medium",
+    "records": {
+      "postscriptName": {
+        "en": "YuGothic-Medium"
+      },
+      "preferredFamily": {
+        "en": "Yu Gothic",
+        "ja": "游ゴシック"
+      },
+      "preferredSubfamily": {
+        "en": "Medium",
+        "ja": "Medium"
+      },
+      "fontFamily": {
+        "en": "Yu Gothic Medium",
+        "ja": "游ゴシック Medium"
+      }
+    }
+  },
+  "YuGothicUI-Regular": {
+    "postscriptName": "YuGothicUI-Regular",
+    "fullName": "Yu Gothic UI Regular",
+    "familyName": "Yu Gothic UI",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "YuGothicUI-Regular"
+      },
+      "fontFamily": {
+        "en": "Yu Gothic UI"
+      }
+    }
+  },
+  "YuGothic-Bold": {
+    "postscriptName": "YuGothic-Bold",
+    "fullName": "Yu Gothic Bold",
+    "familyName": "Yu Gothic",
+    "subfamilyName": "Bold",
+    "JP_fontFamily": "游ゴシック",
+    "records": {
+      "postscriptName": {
+        "en": "YuGothic-Bold"
+      },
+      "fontFamily": {
+        "en": "Yu Gothic",
+        "ja": "游ゴシック"
+      }
+    }
+  },
+  "YuGothicUI-Bold": {
+    "postscriptName": "YuGothicUI-Bold",
+    "fullName": "Yu Gothic UI Bold",
+    "familyName": "Yu Gothic UI",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "en": "YuGothicUI-Bold"
+      },
+      "fontFamily": {
+        "en": "Yu Gothic UI"
+      }
+    }
+  },
+  "YuGothicUI-Semibold": {
+    "postscriptName": "YuGothicUI-Semibold",
+    "fullName": "Yu Gothic UI Semibold",
+    "familyName": "Yu Gothic UI Semibold",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Yu Gothic UI",
+    "records": {
+      "postscriptName": {
+        "en": "YuGothicUI-Semibold"
+      },
+      "preferredFamily": {
+        "en": "Yu Gothic UI"
+      },
+      "preferredSubfamily": {
+        "en": "Semibold"
+      },
+      "fontFamily": {
+        "en": "Yu Gothic UI Semibold"
+      }
+    }
+  },
+  "DengXian-Light": {
+    "postscriptName": "DengXian-Light",
+    "fullName": "DengXian Light",
+    "familyName": "DengXian Light",
+    "subfamilyName": "Regular",
+    "preferredFamily": "DengXian",
+    "ZH_fontFamily": "等线",
+    "ZH_subfamilyName": "Light",
+    "records": {
+      "postscriptName": {
+        "en": "DengXian-Light",
+        "zh": "Dengxian-Light"
+      },
+      "preferredFamily": {
+        "en": "DengXian",
+        "zh": "等线"
+      },
+      "preferredSubfamily": {
+        "en": "Light",
+        "zh": "Light"
+      },
+      "fontFamily": {
+        "en": "DengXian Light",
+        "zh": "等线 Light"
+      }
+    }
+  },
+  "DengXian": {
+    "postscriptName": "DengXian",
+    "fullName": "DengXian Regular",
+    "familyName": "DengXian",
+    "subfamilyName": "Regular",
+    "ZH_fontFamily": "等线",
+    "records": {
+      "postscriptName": {
+        "en": "DengXian",
+        "zh": "Dengxian"
+      },
+      "fontFamily": {
+        "en": "DengXian",
+        "zh": "等线"
+      }
+    }
+  },
+  "DengXian-Bold": {
+    "postscriptName": "DengXian-Bold",
+    "fullName": "DengXian Bold",
+    "familyName": "DengXian",
+    "subfamilyName": "Bold",
+    "ZH_fontFamily": "等线",
+    "records": {
+      "postscriptName": {
+        "en": "DengXian-Bold",
+        "zh": "Dengxian-Bold"
+      },
+      "fontFamily": {
+        "en": "DengXian",
+        "zh": "等线"
+      }
+    }
+  },
+  "FangSong": {
+    "postscriptName": "FangSong",
+    "fullName": "FangSong",
+    "familyName": "FangSong",
+    "subfamilyName": "Regular",
+    "ZH_fontFamily": "仿宋",
+    "records": {
+      "postscriptName": {
+        "en": "FangSong",
+        "zh": "仿宋"
+      },
+      "fontFamily": {
+        "en": "FangSong",
+        "zh": "仿宋"
+      }
+    }
+  },
+  "KaiTi": {
+    "postscriptName": "KaiTi",
+    "fullName": "KaiTi",
+    "familyName": "KaiTi",
+    "subfamilyName": "Regular",
+    "ZH_fontFamily": "楷体",
+    "records": {
+      "postscriptName": {
+        "en": "KaiTi",
+        "zh": "楷体"
+      },
+      "fontFamily": {
+        "en": "KaiTi",
+        "zh": "楷体"
+      }
+    }
+  },
+  "SimHei": {
+    "postscriptName": "SimHei",
+    "fullName": "SimHei",
+    "familyName": "SimHei",
+    "subfamilyName": "Regular",
+    "ZH_fontFamily": "黑体",
+    "records": {
+      "postscriptName": {
+        "en": "SimHei",
+        "zh": "黑体"
+      },
+      "fontFamily": {
+        "en": "SimHei",
+        "zh": "黑体"
+      }
+    }
+  },
+  "HoloLensMDL2Assets": {
+    "postscriptName": "HoloLensMDL2Assets",
+    "fullName": "HoloLens MDL2 Assets",
+    "familyName": "HoloLens MDL2 Assets",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "HoloLensMDL2Assets"
+      },
+      "fontFamily": {
+        "en": "HoloLens MDL2 Assets"
+      }
+    }
+  },
+  "AdobeDevanagari-Regular": {
+    "postscriptName": "AdobeDevanagari-Regular",
+    "fullName": "AdobeDevanagari-Regular",
+    "familyName": "Adobe Devanagari",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "AdobeDevanagari-Regular"
+      },
+      "fontFamily": {
+        "en": "Adobe Devanagari"
+      }
+    }
+  },
+  "AdobeDevanagari-Italic": {
+    "postscriptName": "AdobeDevanagari-Italic",
+    "fullName": "AdobeDevanagari-Italic",
+    "familyName": "Adobe Devanagari",
+    "subfamilyName": "Italic",
+    "records": {
+      "postscriptName": {
+        "en": "AdobeDevanagari-Italic"
+      },
+      "fontFamily": {
+        "en": "Adobe Devanagari"
+      }
+    }
+  },
+  "AdobeDevanagari-Bold": {
+    "postscriptName": "AdobeDevanagari-Bold",
+    "fullName": "AdobeDevanagari-Bold",
+    "familyName": "Adobe Devanagari",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "en": "AdobeDevanagari-Bold"
+      },
+      "fontFamily": {
+        "en": "Adobe Devanagari"
+      }
+    }
+  },
+  "AdobeDevanagari-BoldItalic": {
+    "postscriptName": "AdobeDevanagari-BoldItalic",
+    "fullName": "AdobeDevanagari-BoldItalic",
+    "familyName": "Adobe Devanagari",
+    "subfamilyName": "Bold Italic",
+    "records": {
+      "postscriptName": {
+        "en": "AdobeDevanagari-BoldItalic"
+      },
+      "fontFamily": {
+        "en": "Adobe Devanagari"
+      }
+    }
+  },
+  "ZWAdobeF": {
+    "postscriptName": "ZWAdobeF",
+    "fullName": "ZWAdobeF",
+    "familyName": "ZWAdobeF",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "ZWAdobeF"
+      },
+      "fontFamily": {
+        "en": "ZWAdobeF"
+      }
+    }
+  },
+  "SourceCodePro-ExtraLight": {
+    "postscriptName": "SourceCodePro-ExtraLight",
+    "fullName": "Source Code Pro ExtraLight",
+    "familyName": "Source Code Pro ExtraLight",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Source Code Pro",
+    "records": {
+      "postscriptName": {
+        "en": "SourceCodePro-ExtraLight"
+      },
+      "preferredFamily": {
+        "en": "Source Code Pro"
+      },
+      "preferredSubfamily": {
+        "en": "ExtraLight"
+      },
+      "fontFamily": {
+        "en": "Source Code Pro ExtraLight"
+      }
+    }
+  },
+  "SourceCodePro-Light": {
+    "postscriptName": "SourceCodePro-Light",
+    "fullName": "Source Code Pro Light",
+    "familyName": "Source Code Pro Light",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Source Code Pro",
+    "records": {
+      "postscriptName": {
+        "en": "SourceCodePro-Light"
+      },
+      "preferredFamily": {
+        "en": "Source Code Pro"
+      },
+      "preferredSubfamily": {
+        "en": "Light"
+      },
+      "fontFamily": {
+        "en": "Source Code Pro Light"
+      }
+    }
+  },
+  "SourceCodePro-Regular": {
+    "postscriptName": "SourceCodePro-Regular",
+    "fullName": "Source Code Pro",
+    "familyName": "Source Code Pro",
+    "subfamilyName": "Regular",
+    "records": {
+      "postscriptName": {
+        "en": "SourceCodePro-Regular"
+      },
+      "fontFamily": {
+        "en": "Source Code Pro"
+      }
+    }
+  },
+  "SourceCodePro-Semibold": {
+    "postscriptName": "SourceCodePro-Semibold",
+    "fullName": "Source Code Pro Semibold",
+    "familyName": "Source Code Pro Semibold",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Source Code Pro",
+    "records": {
+      "postscriptName": {
+        "en": "SourceCodePro-Semibold"
+      },
+      "preferredFamily": {
+        "en": "Source Code Pro"
+      },
+      "preferredSubfamily": {
+        "en": "Semibold"
+      },
+      "fontFamily": {
+        "en": "Source Code Pro Semibold"
+      }
+    }
+  },
+  "SourceCodePro-Bold": {
+    "postscriptName": "SourceCodePro-Bold",
+    "fullName": "Source Code Pro Bold",
+    "familyName": "Source Code Pro",
+    "subfamilyName": "Bold",
+    "records": {
+      "postscriptName": {
+        "en": "SourceCodePro-Bold"
+      },
+      "fontFamily": {
+        "en": "Source Code Pro"
+      }
+    }
+  },
+  "SourceCodePro-Black": {
+    "postscriptName": "SourceCodePro-Black",
+    "fullName": "Source Code Pro Black",
+    "familyName": "Source Code Pro Black",
+    "subfamilyName": "Regular",
+    "preferredFamily": "Source Code Pro",
+    "records": {
+      "postscriptName": {
+        "en": "SourceCodePro-Black"
+      },
+      "preferredFamily": {
+        "en": "Source Code Pro"
+      },
+      "preferredSubfamily": {
+        "en": "Black"
+      },
+      "fontFamily": {
+        "en": "Source Code Pro Black"
+      }
+    }
   }
 }
