@@ -1,0 +1,18 @@
+{
+    "name": "FontMetaDB",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "gen": "node ./src",
+        "build-ExportMyFontList": "cosynode ./src/ExportMyFontList/ ./dist -m --name=ExportMyFontList",
+        "ExportMyFontList": "node ./src/ExportMyFontList/index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "fontkit": "^1.8.1",
+        "node-system-fonts": "^1.0.1",
+        "ora": "^5.4.1"
+    }
+}

@@ -1,0 +1,7 @@
+dist
+.idea
+node_modules
+fontlist/
+__debug__
+yarn-error.log
+.DS_Store
