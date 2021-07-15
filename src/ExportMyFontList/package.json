@@ -1,0 +1,14 @@
+{
+    "name": "ExportMyFontList",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "fontkit": "^1.8.1",
+        "node-system-fonts": "^1.0.1",
+        "ora": "^5.4.1"
+    }
+}
