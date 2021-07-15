@@ -2,7 +2,7 @@ const fs = require("fs")
 const ora = require("ora")
 const path = require("path")
 const fontManager = require("node-system-fonts")
-const loadFontFile = require("./loadFontFile")
+const loadFontFile = require("./loadFontFileByPath.js")
 var fonts = fontManager.getAvailableFontsSync()
 
 const spinner = ora("查找系统中的字体...").start()
