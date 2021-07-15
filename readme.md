@@ -4,7 +4,7 @@ Collects metadata about fonts and is used to find detailed information about fon
 
 收集字体的元数据，用来在只知道字体名字的时候，查找字体的详细信息，比如在 Figma、Sketch、Photoshop 等插件系统中制作字体相关应用程序。
 
-## `FontMetaDB.json` Sample
+## [`FontMetaDB.json`](https://github.com/yArna/FontMetaDB/raw/master/data/FontMetaDB.json) Sample
 
 -   [https://github.com/Moonvy/FontMetaDB/raw/master/data/FontMetaDB.json](https://github.com/yArna/FontMetaDB/raw/master/data/FontMetaDB.json)
 
@@ -44,84 +44,56 @@ Collects metadata about fonts and is used to find detailed information about fon
 }
 ```
 
-## `fontFamilyNameMap.zh.json` Sample
+## [`fontFamilyNameMap.zh.json`](https://github.com/Moonvy/FontMetaDB/raw/master/data/fontFamilyNameMap.zh.json) Sample
 
 [https://github.com/Moonvy/FontMetaDB/raw/master/data/fontFamilyNameMap.zh.json](https://github.com/Moonvy/FontMetaDB/raw/master/data/fontFamilyNameMap.zh.json)
 
 ```json
 {
-    "undefined": "未来荧黑",
-    "Yuanti SC": "圆体-简",
-    "Yuanti TC": "圆体-繁",
-    "Baoli SC": "报隶-简",
+    "Alibaba PuHuiTi": "阿里巴巴普惠体",
+    "Alibaba PuHuiTi 2.0": "阿里巴巴普惠体 2.0",
+    "FZBangShuXingS-R-GB": "榜书字体",
+    "baotuxiaobaiti": "包图小白体",
     "Baoli TC": "报隶-繁",
-    "Source Han Sans SC VF": "思源黑体 VF",
-    "Source Han Sans TC VF": "思源黑體 VF",
-    "Source Han Sans HC VF": "思源黑體 香港 VF",
-    "Glow Sans SC": "未来荧黑",
-    "Songti SC": "宋体-简",
-    "Songti TC": "宋体-繁",
-    "STSong": "华文宋体",
-    "Source Han Serif SC": "思源宋体",
-    "Source Han Serif TC": "思源宋體",
-    "Source Han Sans SC": "思源黑体",
-    "Source Han Sans TC": "思源黑體",
-    "Source Han Sans HC": "思源黑體 香港",
-    "Source Han Sans HW SC": "思源黑体 HW",
-    "Source Han Sans HW TC": "思源黑體 HW",
-    "Source Han Sans HW HC": "思源黑體 香港 HW",
-    "STHeiti": "华文黑体",
-    "Lantinghei SC": "兰亭黑-简",
-    "Lantinghei TC": "兰亭黑-繁",
-    "Heiti TC": "黑体-繁",
-    "Heiti SC": "黑体-简",
-    "HanziPen SC": "翩翩体-简",
-    "HanziPen TC": "翩翩体-繁",
-    "LiSong Pro": "儷宋 Pro",
-    "PingFang HK": "苹方-港",
-    "PingFang TC": "苹方-繁",
-    "PingFang SC": "苹方-简",
-    ".PingFang HK": ".苹方-港",
-    ".PingFang TC": ".苹方-繁",
-    ".PingFang SC": ".苹方-简",
-    "SimSong": "简宋",
-    "Kaiti SC": "楷体-简",
-    "STKaiti": "华文楷体",
-    "Kaiti TC": "楷体-繁",
-    "ziticqnananti": "字体传奇南安体-免费商用",
-    "Weibei SC": "魏碑-简",
+    "Baoli SC": "报隶-简",
+    "Benmo Chenhei": "本墨陈黑",
+    "DengXian": "等线",
     "Hiragino Sans GB": "冬青黑体简体中文",
-    "Xingkai SC": "行楷-简",
-    "Xingkai TC": "行楷-繁",
-    "Wawati TC": "娃娃体-繁",
-    "Libian SC": "隶变-简",
-    "Libian TC": "隶变-繁",
-    "Hiragino Sans CNS": "Hiragino Sans CNS",
-    "WenYue XinQingNianTi (Non-Commercial Use)": "文悦新青年体 (非商业使用)",
-    "Hannotate SC": "手札体-简",
-    "Hannotate TC": "手札体-繁",
-    "Apple LiSung": "蘋果儷細宋",
-    "LingWai TC": "凌慧体-繁",
-    "LingWai SC": "凌慧体-简",
-    "Apple LiGothic": "蘋果儷中黑",
-    "STFangsong": "华文仿宋",
-    "VonwaonBitmap 12px Lite": "凤凰点阵体 12px Lite",
-    "Weibei TC": "魏碑-繁",
-    "Yuppy TC": "雅痞-繁",
-    "LiHei Pro": "儷黑 Pro",
-    "Yuppy SC": "雅痞-简",
-    "Wawati SC": "娃娃体-简",
-    "BiauKai": "標楷體"
+    "FOTILE1": "方太梦想宋细",
+    "FOTILE2": "方太梦想宋中",
+    "FZBaoSong-Z04S": "方正报宋简体",
+    "FZBeiWeiKaiShu-S19S": "方正北魏楷书简体",
+    "FZBoYaSong": "方正博雅宋_GBK",
+    "FZChaoCuHei-M10S": "方正超粗黑简体",
+    "FZCuKai-GBK": "方正粗楷_GBK",
+    "FZCuQian-M17S": "方正粗倩简体",
+    "FZCuSong-B09S": "方正粗宋简体",
+    "FZTanHeiS-B-GB": "方正粗谭黑简体",
+    "FZCuYuan-M03S": "方正粗圆简体",
+    "FZDaBiaoSong-B06S": "方正大标宋简体",
+    "FZDaHei-B02S": "方正大黑简体",
+    "FZFangMeiS-R-GB": "方正方魅简体",
+    "FZFangGuo-R-GB": "方正仿郭简体",
+    "FZFengYaSongS-GB": "方正风雅宋简体",
+    "FZGuLi-S12T": "方正古隶繁体",
+    "FZGuLi-S12S": "方正古隶简体",
+    "FZHanJian-R-GB": "方正汉简简体",
+    "FZHanZhenGuangBiaoS-GB": "方正汉真广标简体",
+    "FZHaoTi-R-GB": "方正豪体简体",
+    "FZHei-B01S": "方正黑体简体",
+    "FZHuangCao-S09S": "方正黄草简体",
+    "FZKai-Z03S": "方正楷体简体",
+    "FZKTPY01": "方正楷体拼音字库01",
+    "FZKTPY02": "方正楷体拼音字库02"
 }
 ```
 
-## `fontFamilyNameMap.jp.json` Sample
+## [`fontFamilyNameMap.jp.json`](https://github.com/Moonvy/FontMetaDB/raw/master/data/fontFamilyNameMap.ja.json) Sample
 
 [https://github.com/Moonvy/FontMetaDB/raw/master/data/fontFamilyNameMap.ja.json](https://github.com/Moonvy/FontMetaDB/raw/master/data/fontFamilyNameMap.ja.json)
 
 ```json
 {
-    "undefined": "未来荧黑",
     "Source Han Sans VF": "源ノ角ゴシック VF",
     "Osaka": "Osaka",
     "YuMincho": "游明朝体",
