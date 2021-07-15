@@ -1,6 +1,10 @@
-##
+# FontMetaDB - Gotta Catch Font All！
 
-### `FontMetaDB.json` Sample
+Collects metadata about fonts and is used to find detailed information about fonts when only the font name is known, such as in plug-in systems like Figma, Sketch, Photoshop, etc. to create font-related applications.
+
+收集字体的元数据，用来在只知道字体名字的时候，查找字体的详细信息，比如在 Figma、Sketch、Photoshop 等插件系统中制作字体相关应用程序。
+
+## `FontMetaDB.json` Sample
 
 ```json
 {
@@ -38,7 +42,7 @@
 }
 ```
 
-### `fontFamilyNameMap.zh.json` Sample
+## `fontFamilyNameMap.zh.json` Sample
 
 ```json
 {
