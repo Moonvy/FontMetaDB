@@ -166,3 +166,15 @@ Collects metadata about fonts and is used to find detailed information about fon
     "Yu Gothic": "游ゴシック"
 }
 ```
+
+## Contribute the metadata of the fonts installed in your system
+Download font export tool [Windows system](https://github.com/Moonvy/FontMetaDB/releases/download/ExportMyFontList/ExportMyFontList-Windows.zip) | [MacOS system ](https://github.com/Moonvy/FontMetaDB/releases/download/ExportMyFontList/ExportMyFontList-MacOS.zip)
+Unzip it and run it directly, it will generate a font list file in the current folder, like this: `fontlist.08a46dd7955f94.json`, create an [Issues](https://github.com/Moonvy/FontMetaDB/issues/new/choose) that uploads the file as an attachment.
+
+
+## 没有你用的字体？贡献你系统安装里的字体的信息
+
+下载字体导出工具 [Windows 系统](https://github.com/Moonvy/FontMetaDB/releases/download/ExportMyFontList/ExportMyFontList-Windows.zip) | [MacOS 系统](https://github.com/Moonvy/FontMetaDB/releases/download/ExportMyFontList/ExportMyFontList-MacOS.zip)
+
+解压后直接运行，它会在当前文件夹生成一个字体列表文件，像这样：`fontlist.08a46dd7955f94.json`，创建一个 [Issues](https://github.com/Moonvy/FontMetaDB/issues/new/choose) ，把文件作为附件上传给我们。
+)
