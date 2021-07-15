@@ -6,6 +6,8 @@ Collects metadata about fonts and is used to find detailed information about fon
 
 ## `FontMetaDB.json` Sample
 
+-   [https://github.com/Moonvy/FontMetaDB/raw/master/data/FontMetaDB.json](https://github.com/yArna/FontMetaDB/raw/master/data/FontMetaDB.json)
+
 ```json
 {
     "PingFangSC-Regular": {
@@ -43,6 +45,8 @@ Collects metadata about fonts and is used to find detailed information about fon
 ```
 
 ## `fontFamilyNameMap.zh.json` Sample
+
+[https://github.com/Moonvy/FontMetaDB/raw/master/data/fontFamilyNameMap.zh.json](https://github.com/Moonvy/FontMetaDB/raw/master/data/fontFamilyNameMap.zh.json)
 
 ```json
 {
@@ -108,5 +112,57 @@ Collects metadata about fonts and is used to find detailed information about fon
     "Yuppy SC": "雅痞-简",
     "Wawati SC": "娃娃体-简",
     "BiauKai": "標楷體"
+}
+```
+
+## `fontFamilyNameMap.jp.json` Sample
+
+[https://github.com/Moonvy/FontMetaDB/raw/master/data/fontFamilyNameMap.ja.json](https://github.com/Moonvy/FontMetaDB/raw/master/data/fontFamilyNameMap.ja.json)
+
+```json
+{
+    "undefined": "未来荧黑",
+    "Source Han Sans VF": "源ノ角ゴシック VF",
+    "Osaka": "Osaka",
+    "YuMincho": "游明朝体",
+    "YuMincho +36p Kana": "游明朝体+36ポかな",
+    "Source Han Serif": "源ノ明朝",
+    "Source Han Sans": "源ノ角ゴシック",
+    "Source Han Sans HW": "源ノ角ゴシック HW",
+    "GenYoMin JP": "源様明朝",
+    "Hiragino Sans": "ヒラギノ角ゴシック",
+    "GenWanMin JP": "源雲明朝",
+    "Heiti TC": "黒体-繁",
+    "Heiti SC": "黒体-簡",
+    "SoukouMincho": "装甲明朝",
+    "Genkaimincho": "源界明朝",
+    "YuKyokasho Yoko": "游教科書体 横用",
+    "YuKyokasho": "游教科書体",
+    "GenRyuMin JP": "源流明朝",
+    "YuGothic": "游ゴシック体",
+    "Gen Jyuu Gothic P": "源柔ゴシックP",
+    "Hiragino Kaku Gothic Std": "ヒラギノ角ゴ Std",
+    "Hiragino Kaku Gothic StdN": "ヒラギノ角ゴ StdN",
+    "Gen Jyuu Gothic Monospace": "源柔ゴシック等幅",
+    "Gen Jyuu Gothic": "源柔ゴシック",
+    "Toppan Bunkyu Midashi Gothic": "凸版文久見出しゴシック",
+    "Toppan Bunkyu Gothic": "凸版文久ゴシック",
+    "Klee": "クレー",
+    "SetoFont": "瀬戸フォント",
+    "Hiragino Mincho ProN": "ヒラギノ明朝 ProN",
+    "Hiragino Mincho Pro": "ヒラギノ明朝 Pro",
+    "Tsukushi B Round Gothic": "筑紫B丸ゴシック",
+    "Hiragino Kaku Gothic ProN": "ヒラギノ角ゴ ProN",
+    "Hiragino Kaku Gothic Pro": "ヒラギノ角ゴ Pro",
+    "Chogokuboso Gothic": "超極細ゴシック",
+    "Hiragino Maru Gothic Pro": "ヒラギノ丸ゴ Pro",
+    "Hiragino Maru Gothic ProN": "ヒラギノ丸ゴ ProN",
+    "Tsukushi A Round Gothic": "筑紫A丸ゴシック",
+    "Toppan Bunkyu Mincho": "凸版文久明朝",
+    "Toppan Bunkyu Midashi Mincho": "凸版文久見出し明朝",
+    "MS Gothic": "ＭＳ ゴシック",
+    "MS UI Gothic": "MS UI Gothic",
+    "MS PGothic": "ＭＳ Ｐゴシック",
+    "Yu Gothic": "游ゴシック"
 }
 ```
