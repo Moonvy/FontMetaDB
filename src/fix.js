@@ -53,7 +53,7 @@ function textDecode(data, key, font) {
     return text
 }
 
-var gbk_list = [/^STFangsong/, /^STHeiti/, /Heiti/, /^STKaiti/, /^STSong/, /^STXihei/, /^DFKaiShu/]
+var gbk_list = [/^STFangsong/, /^STHeiti/, /Heiti/, /^STKaiti/, /^STSong/, /^STXihei/]
 var big5_list = [
     /^LiSong/,
     /^LiGothic/,
@@ -64,4 +64,5 @@ var big5_list = [
     /^RS_CuBiao/,
     /^DFTan/,
     /^AdobeFanHeiti/,
+    /^DFKaiShu/,
 ]

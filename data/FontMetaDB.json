@@ -22015,14 +22015,14 @@
         "fullName": "BiauKai",
         "familyName": "BiauKai",
         "subfamilyName": "Regular",
-        "ZH_fontFamily": "夹发砰",
+        "ZH_fontFamily": "標楷體",
         "records": {
             "postscriptName": {
                 "en": "DFKaiShu-SB-Estd-BF"
             },
             "fontFamily": {
                 "en": "BiauKai",
-                "zh-Hant": "夹发砰"
+                "zh-Hant": "標楷體"
             }
         }
     },
